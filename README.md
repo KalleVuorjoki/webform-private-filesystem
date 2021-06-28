@@ -9,4 +9,9 @@ Requirements on local machine:
 ```sh
 composer install
 ddev start
+ddev exec drush site-install --existing-config --account-pass=123 -y
 ```
+
+Drupal: https://webform-private-files.ddev.site
+Contact form: https://webform-private-files.ddev.site/form/contact
+Mailhog: http://webform-private-files.ddev.site:8025
