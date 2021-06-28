@@ -20,6 +20,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
+        "drupal/mailgun": "^1.0",
         "drupal/mailsystem": "^4.3",
         "drupal/mimemail": "^1.0",
         "drupal/webform": "^6.0",
